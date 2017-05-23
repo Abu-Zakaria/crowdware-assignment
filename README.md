@@ -1,6 +1,6 @@
 # test
 
-> A Vue.js project for Crowdware's assignment....
+> A Vue.js project for Crowdware's assignment
 
 ## Build Setup
 
