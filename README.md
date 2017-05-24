@@ -1,4 +1,4 @@
-# test
+# Assignment
 
 > A Vue.js project for Crowdware's assignment
 
